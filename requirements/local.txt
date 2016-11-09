@@ -1,0 +1,4 @@
+# Local development dependencies go here
+-r test.txt
+
+Sphinx==1.2.2
